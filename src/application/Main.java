@@ -120,7 +120,7 @@ public class Main extends Application {
                 	x = tempx;
                 	z = tempz;
                 }
-                
+                //
             }
             
             System.out.println(event.getCode()+"\tX: "+x+"\tY: "+y+"\tZ: "+z+"\t\tangXY "+angXY+"\tangXZ "+angXZ);
