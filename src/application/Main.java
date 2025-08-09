@@ -24,7 +24,7 @@
 	        double tempangXY = angXY;
 	        
 	        double angSpeed = 0.01;
-	        int movSpeed = 1;
+	        int movSpeed = 5;
 	        int universeX = 1000;
 	        int universeY = 1000;
 	        int universeZ = 1000;
